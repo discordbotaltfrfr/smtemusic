@@ -13,7 +13,7 @@ intents = discord.Intents.all()
 bot = commands.Bot(command_prefix='!', intents=intents)
 
 # Large Image URL
-LARGE_IMAGE_URL = "https://media.discordapp.net/attachments/856506862107492402/1425324515034009662/image.png?ex=68e72c65&is=68e5dae5&hm=390850b95ebb0c2bc1eacddd8bdaba22eef053c967a638122fe570bdfb18b724&=&format=webp&quality=lossless"
+LARGE_IMAGE_URL = "https://ichef.bbci.co.uk/news/480/cpsprodpb/16C5D/production/_108277239_gettyimages-681946576.jpg.webp"
 
 # Music queues
 queues = {}
