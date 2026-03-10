@@ -106,7 +106,7 @@ def create_embed(title, description, color=0x00ff00, show_large_image=True):
     if show_large_image:
         embed.set_image(url=LARGE_IMAGE_URL)
     
-    embed.set_footer(text="Music Bot • Made with ❤️")
+    embed.set_footer(text="Music Bot • Made with Communism")
     return embed
 
 # Enhanced Invidious API with multiple instances and retries
